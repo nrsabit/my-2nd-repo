@@ -1,0 +1,11 @@
+h1{
+    color: brown;
+}
+h6{
+    color: orangered;
+}
+
+p{
+    color: aqua;
+    text-decoration: underline wavy red;
+}
