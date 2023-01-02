@@ -8,4 +8,8 @@ h6{
 p{
     color: aqua;
     text-decoration: underline wavy red;
+    height: 60px;
+    background-color: #c2c2c2;
+    border-radius: 5px;
+    box-shadow: 0 0 5px;
 }
